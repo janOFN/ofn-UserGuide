@@ -16,7 +16,7 @@ description: Herzlich Willkommen!
 
 ## Einführung
 
-Das Open Food Network ermöglicht es, Lebensmittel regional und direkt von Erzeugern, Landwirten und Produzenten zu beziehen. Darüber hinaus können sich weitreichende Netzwerke von kleinen Lebensmittelproduzenten, Distributoren, Einzelhändlern, Food Hubs, Kooperativen und Einkaufsgemeinschaften bilden, um kurze Produktions- und Lieferketten zu schaffen.
+Das Open Food Network ermöglicht es, Lebensmittel regional und direkt von Erzeugern, Landwirten und Produzenten zu beziehen. Darüber hinaus können sich weitreichende Netzwerke von kleinen Lebensmittelproduzenten, Verteilern, Einzelhändlern, Food Hubs, Kooperativen und Einkaufsgemeinschaften bilden, um kurze Produktions- und Lieferketten zu schaffen.
 
 Das Open Food Network ist ein globales Projekt, das die organisatorischen Abläufe von Produzenten und Verbrauchern (z.B. in Kooperativen) beim Handel regionaler Lebensmittel unterstützt. Die von uns entwickelte Software ist Open Source und wir arbeiten mit großartigen Menschen aus der ganzen Welt zusammen, um sie ständig zu verbessern! Wir unterstützen auch die Planungen zum Aufbau und Betrieb verschiedenster Vermarktungsmodelle, z.B. eines Food Hubs oder eines online Wochenmarkts. Bitte kontaktieren Sie gerne Ihren[ OFN Ansprechpartner vor Ort](local-ofn-organizations-and-contacts.md), um mehr zu erfahren!
 
