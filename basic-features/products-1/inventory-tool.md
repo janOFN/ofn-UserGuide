@@ -1,4 +1,4 @@
-# Werkzeug zur Bestandsaufnahme
+# Werkzeug zur Bestandsaufnahme ("Inventar"/"Katalog")
 
 ## Einführung
 
